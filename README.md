@@ -1,6 +1,6 @@
 # Color Generator Project
 
-> This is a color generator react project using Forms and State Hooks.
+> This is a color generator react project using Forms and State, Effect Hooks.
 
 ## Available Scripts
 
